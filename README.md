@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # Nome do Projeto
 "Gerenciador de Projetos em React"
